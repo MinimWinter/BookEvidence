@@ -1,0 +1,7 @@
+Filtr
+Pøidat knihu +
+Odebrat knihu +
+Editovat knihu +
+Exportovat knihu ---- WHAT DOES IT MEAN?
+(ukládání/naèítání)	-+ Uložení do txt hotovo, nahrává to však všechny knihy jako jeden ITEM -> ERROR pøi mazání (?)
+
